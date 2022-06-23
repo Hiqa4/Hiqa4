@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hiqa4, i'm junior programmer/dev/coder, i'm from Russia, and my english bad, don't judge strictly XD
-- 👀 I’m interested in Python projects, HTML, and more language programmer.
+- 👀 I’m interested in Python projects, HTML, and more language.
 - 🌱 I’m currently learning Devops, Python, Django, want to start too Java, Spring Framework.
 - 💞️ I’m looking to collaborate on small/medium company, to begin start a professional career as a Python developer :з 
 - 📫 How to reach me, to be honest, I don't know yet, maybe a little later, I'll update this graph :)
